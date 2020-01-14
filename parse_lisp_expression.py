@@ -88,7 +88,7 @@ class LispParser(object):
             elif secondlook == 'mult':
                 return self.parse_mult_expr()
             else:
-                print 'ERROR'
+                print('ERROR')
         elif lookahead[0].isalpha():
             return Variable(self.consume())
         else:
@@ -151,4 +151,4 @@ class Solution(object):
 if __name__ == '__main__':
     s = Solution()
     result = s.evaluate('(let x 1 x)')
-    print result
+    print(result)
