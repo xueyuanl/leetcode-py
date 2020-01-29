@@ -6,3 +6,7 @@
 
 # String
 * 1108\. Defanging an IP Address
+
+# Dynamic Programming
+* 62\. Unique Paths
+* 64\. Minimum Path Sum
