@@ -10,3 +10,5 @@
 # Dynamic Programming
 * 62\. Unique Paths
 * 64\. Minimum Path Sum
+* 337\. House Robber III
+* 96\. Unique Binary Search Trees
