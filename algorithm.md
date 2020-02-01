@@ -12,3 +12,8 @@
 * 64\. Minimum Path Sum
 * 337\. House Robber III
 * 96\. Unique Binary Search Trees
+
+# Math
+
+### Chebyshev distance
+* 1266\. Minimum Time Visiting All Points
