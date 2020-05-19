@@ -6,6 +6,8 @@
 
 # String
 * 1108\. Defanging an IP Address
+### Sliding window
+* [567\. Permutation in String](problems/permutation_in_string.py)(Hash)
 
 # Dynamic Programming
 * 62\. Unique Paths
@@ -25,3 +27,4 @@
 * 56\. Merge Intervals
 * 252\. Meeting Rooms
 * 253\. Meeting Rooms II
+
