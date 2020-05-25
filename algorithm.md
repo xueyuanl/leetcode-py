@@ -18,6 +18,8 @@
 * 96\. Unique Binary Search Trees
 
 # Tree
+### Binary tree
+* [1008\. Construct Binary Search Tree from Preorder Traversal](problems/construct_binary_search_tree_from_preorder_traversal.py) [recursive]
 
 # Math
 
