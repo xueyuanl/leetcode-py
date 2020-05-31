@@ -1,6 +1,6 @@
 # Array
 * 238\. Product of Array Except Self
-
+* [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
 # recursion
 * 22\. Generate Parentheses
 
@@ -29,6 +29,7 @@
 
 # Heap
 * 895\. Maximum Frequency Stack
+* [973\. K Closest Points to Origin](problems/K_Closest_points_to_origin.py)
 
 # Interval
 * 56\. Merge Intervals
