@@ -1,6 +1,7 @@
 # Array
 * 238\. Product of Array Except Self
 * [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
+* [1460\. Make Two Arrays Equal by Reversing Sub-arrays](problems/make_two_arrays_equal_by_reversing_sub-arrays.py)
 # recursion
 * 22\. Generate Parentheses
 
