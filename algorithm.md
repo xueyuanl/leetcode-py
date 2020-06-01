@@ -1,7 +1,11 @@
 # Array
 * 238\. Product of Array Except Self
+* [1389\. Create Target Array in the Given Order](problems/create_target_array_in_the_given_order.py)
+* [1395\. Count Number of Teams](problems/count_number_of_teams.py)
 * [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
+* [1450\. Number of Students Doing Homework at a Given Time](problems/number_of_students_doing_homework_at_a_given_time.py)
 * [1460\. Make Two Arrays Equal by Reversing Sub-arrays](problems/make_two_arrays_equal_by_reversing_sub-arrays.py)
+* [1464\. Maximum Product of Two Elements in an Array](problems/maximum_product_of_two_elements_in_an_array.py)
 # recursion
 * 22\. Generate Parentheses
 
