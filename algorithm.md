@@ -25,6 +25,7 @@
 # Tree
 ### Binary tree
 * [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
+* [226\. Invert Binary Tree](problems/invert_binary_tree.py) [recursive]
 * [1008\. Construct Binary Search Tree from Preorder Traversal](problems/construct_binary_search_tree_from_preorder_traversal.py) [recursive]
 
 # Math
@@ -41,3 +42,8 @@
 * 252\. Meeting Rooms
 * 253\. Meeting Rooms II
 
+# Finite-state machine
+* [44\. Wildcard Matching](problems/wildcard_matching.py) // TODO
+
+# Backtracking
+* [17\. Letter Combinations of a Phone Number](problems/letter_combinations_of_a_phone_number.py) [iteration]
