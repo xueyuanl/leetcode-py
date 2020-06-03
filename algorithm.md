@@ -47,4 +47,5 @@
 
 # Backtracking
 * [17\. Letter Combinations of a Phone Number](problems/letter_combinations_of_a_phone_number.py) [iteration]
+* [401\. Binary Watch](problems/binary_watch.py)
 * [784\. Letter Case Permutation](problems/letter_case_permutation.py)
