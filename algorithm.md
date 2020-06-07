@@ -13,6 +13,7 @@
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
 * 1108\. Defanging an IP Address
 ### Sliding window
+* [76\. * Minimum Window Substring](problems/minimum_window_substring.py) 
 * [567\. Permutation in String](problems/permutation_in_string.py) [hash]
 
 
@@ -54,3 +55,6 @@
 * [401\. Binary Watch](problems/binary_watch.py)
 * [784\. Letter Case Permutation](problems/letter_case_permutation.py)
 * [1079\. Letter Tile Possibilities](problems/letter_tile_possibilities.py)  [dfs]
+
+# Least Recently Used (LRU) cache
+* [146\. LRU Cache](problems/LRU_cache.py)
