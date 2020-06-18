@@ -12,6 +12,8 @@
 # String
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
 * 1108\. Defanging an IP Address
+* [1180\. Count Substrings with Only One Distinct Letter]() [math]
+
 ### Sliding window
 * [76\. * Minimum Window Substring](problems/minimum_window_substring.py) 
 * [567\. Permutation in String](problems/permutation_in_string.py) [hash]
