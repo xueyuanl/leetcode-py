@@ -1,5 +1,6 @@
 # Array
 * 238\. Product of Array Except Self
+* [645\. Set Mismatch](problems/set_mismatch.py)
 * [1389\. Create Target Array in the Given Order](problems/create_target_array_in_the_given_order.py)
 * [1395\. Count Number of Teams](problems/count_number_of_teams.py)
 * [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
@@ -10,9 +11,10 @@
 * 22\. Generate Parentheses
 
 # String
+* [246\. Strobogrammatic Number](problems/strobogrammatic_number.py) [hash]
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
 * 1108\. Defanging an IP Address
-* [1180\. Count Substrings with Only One Distinct Letter]() [math]
+* [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
 
 ### Sliding window
 * [76\. * Minimum Window Substring](problems/minimum_window_substring.py) 
