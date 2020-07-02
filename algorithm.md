@@ -7,6 +7,7 @@
 * [1450\. Number of Students Doing Homework at a Given Time](problems/number_of_students_doing_homework_at_a_given_time.py)
 * [1460\. Make Two Arrays Equal by Reversing Sub-arrays](problems/make_two_arrays_equal_by_reversing_sub-arrays.py)
 * [1464\. Maximum Product of Two Elements in an Array](problems/maximum_product_of_two_elements_in_an_array.py)
+* [1480\. Running Sum of 1d Array](problems/running_sum_of_1d_array.py)
 # recursion
 * 22\. Generate Parentheses
 
