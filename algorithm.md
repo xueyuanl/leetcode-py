@@ -30,6 +30,7 @@
 * 96\. Unique Binary Search Trees
 
 # Tree
+* [1490\. Clone N-ary Tree](problems/clone_N-ary_tree.py)
 ### Binary tree
 * [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
 * [226\. Invert Binary Tree](problems/invert_binary_tree.py) [recursive]
