@@ -16,8 +16,9 @@
 # String
 * [246\. Strobogrammatic Number](problems/strobogrammatic_number.py) [hash]
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
-* 1108\. Defanging an IP Address
+* [1108\. Defanging an IP Address](problems/defanging_an_ip_address.py)
 * [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
+* [1436\. Destination City](problems/destination_city.py)
 
 ### Sliding window
 * [76\. * Minimum Window Substring](problems/minimum_window_substring.py) 
