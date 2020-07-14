@@ -26,6 +26,7 @@
 
 
 # Dynamic Programming
+* [5\. Longest Palindromic Substring](problems/longest_palindromic_substring.py)
 * 62\. Unique Paths
 * 64\. Minimum Path Sum
 * 337\. House Robber III
