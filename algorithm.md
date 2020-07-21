@@ -31,6 +31,7 @@
 * 64\. Minimum Path Sum
 * 337\. House Robber III
 * 96\. Unique Binary Search Trees
+* [256\. Paint House](problems/paint_house.py)
 
 # Tree
 * [1490\. Clone N-ary Tree](problems/clone_N-ary_tree.py)
