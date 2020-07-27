@@ -32,6 +32,7 @@
 * 337\. House Robber III
 * 96\. Unique Binary Search Trees
 * [256\. Paint House](problems/paint_house.py)
+* [1277\. Count Square Submatrices with All Ones](problems/count_square_submatrices_with_all_ones.py)
 
 # Tree
 * [1490\. Clone N-ary Tree](problems/clone_N-ary_tree.py)
