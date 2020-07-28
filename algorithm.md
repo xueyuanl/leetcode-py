@@ -10,15 +10,21 @@
 * [1464\. Maximum Product of Two Elements in an Array](problems/maximum_product_of_two_elements_in_an_array.py)
 * [1470\. Shuffle the Array](problems/shuffle_the_array.py)
 * [1480\. Running Sum of 1d Array](problems/running_sum_of_1d_array.py)
+* [1512\. Number of Good Pairs](problems/number_of_good_pairs.py)
+
 # recursion
 * 22\. Generate Parentheses
 
 # String
+* [125\. Valid Palindrome](problems/valid_palindrome.py)`list[::-1]` reverse a list, `==` can compare two list directly.
 * [246\. Strobogrammatic Number](problems/strobogrammatic_number.py) [hash]
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
 * [1108\. Defanging an IP Address](problems/defanging_an_ip_address.py)
 * [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
 * [1436\. Destination City](problems/destination_city.py)
+
+# Linked List
+* [234\. Palindrome Linked List](problems/palindrome_linked_list.py) : use fast-slow pointers, can get the middle position of the linked list
 
 ### Sliding window
 * [76\. * Minimum Window Substring](problems/minimum_window_substring.py) 
@@ -70,3 +76,6 @@
 
 # Least Recently Used (LRU) cache
 * [146\. LRU Cache](problems/LRU_cache.py)
+
+# Stack
+* [155\. Min Stack](problems/min_stack.py)
