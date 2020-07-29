@@ -22,6 +22,8 @@
 * [1108\. Defanging an IP Address](problems/defanging_an_ip_address.py)
 * [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
 * [1436\. Destination City](problems/destination_city.py)
+* [1528\. Shuffle String](problems/shuffle_string.py)
+
 
 # Linked List
 * [92\. Reverse Linked List II](problems/reverse_linked_list_II.py)
@@ -80,3 +82,6 @@
 
 # Stack
 * [155\. Min Stack](problems/min_stack.py)
+
+# Bit Manipulation
+* [1486\. XOR Operation in an Array](problems/XOR_operation_in_a_array.py) `easy`
