@@ -1,6 +1,7 @@
 # Array
 * 238\. Product of Array Except Self
 * [645\. Set Mismatch](problems/set_mismatch.py)
+* [1351\. Count Negative Numbers in a Sorted Matrix](problems/count_negative_numbers_in_a_sorted_matrix.py)
 * [1365\. How Many Numbers Are Smaller Than the Current Number](problems/how_many_numbers_are_smaller_than_the_current_number.py)
 * [1389\. Create Target Array in the Given Order](problems/create_target_array_in_the_given_order.py)
 * [1395\. Count Number of Teams](problems/count_number_of_teams.py)
