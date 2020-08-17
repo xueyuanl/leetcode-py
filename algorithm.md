@@ -16,9 +16,10 @@
 * [1512\. Number of Good Pairs](problems/number_of_good_pairs.py)
 
 # recursion
-* 22\. Generate Parentheses
+* [22\. Generate Parentheses](problems/generate_parentheses.py)
 
 # String
+* [13\. Roman to Integer](problems/roman_to_integer.py)
 * [125\. Valid Palindrome](problems/valid_palindrome.py)`list[::-1]` reverse a list, `==` can compare two list directly.
 * [246\. Strobogrammatic Number](problems/strobogrammatic_number.py) [hash]
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
