@@ -1,5 +1,7 @@
 # Array
-* 238\. Product of Array Except Self
+* [1\. Two Sum](problems/two_sum.py) `hash table`
+* [15\. 3Sum](problems/3_sum.py) `sort` `two pointers`
+* [238\. Product of Array Except Self](problems/product_of_array_except_self.py)
 * [645\. Set Mismatch](problems/set_mismatch.py)
 * [1351\. Count Negative Numbers in a Sorted Matrix](problems/count_negative_numbers_in_a_sorted_matrix.py)
 * [1365\. How Many Numbers Are Smaller Than the Current Number](problems/how_many_numbers_are_smaller_than_the_current_number.py)
