@@ -31,6 +31,7 @@
 
 # Linked List
 * [24\. Swap Nodes in Pairs](problems/swap_nodes_in_pairs.py) `recursion` `add one leading node`
+* [61\. Rotate List](problems/rotate_list.py) `take remainder to get actual rotate number`
 * [92\. Reverse Linked List II](problems/reverse_linked_list_II.py)
 * [234\. Palindrome Linked List](problems/palindrome_linked_list.py) : use fast-slow pointers, can get the middle position of the linked list
 
