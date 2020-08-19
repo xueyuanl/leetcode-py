@@ -17,8 +17,14 @@
 * [1480\. Running Sum of 1d Array](problems/running_sum_of_1d_array.py)
 * [1512\. Number of Good Pairs](problems/number_of_good_pairs.py)
 
-# recursion
-* [22\. Generate Parentheses](problems/generate_parentheses.py)
+# Dynamic Programming
+* [5\. Longest Palindromic Substring](problems/longest_palindromic_substring.py)
+* [62\. Unique Paths](problems/unique_paths.py)
+* [64\. Minimum Path Sum](problems/minimum_path_sum.py)
+* [96\. Unique Binary Search Trees](problems/unique_binary_search_trees.py)
+* [256\. Paint House](problems/paint_house.py)
+* [337\. House Robber III](problems/house_robber_III.py)
+* [1277\. Count Square Submatrices with All Ones](problems/count_square_submatrices_with_all_ones.py)
 
 # String
 * [13\. Roman to Integer](problems/roman_to_integer.py)
@@ -30,6 +36,33 @@
 * [1436\. Destination City](problems/destination_city.py)
 * [1528\. Shuffle String](problems/shuffle_string.py)
 
+# Math
+
+# Tree
+* [1490\. Clone N-ary Tree](problems/clone_N-ary_tree.py)
+### Binary tree
+* [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
+* [226\. Invert Binary Tree](problems/invert_binary_tree.py) [recursive]
+* [1008\. Construct Binary Search Tree from Preorder Traversal](problems/construct_binary_search_tree_from_preorder_traversal.py) [recursive]
+
+# Greedy
+* [55\. Jump Game](problems/jump_game.py)
+
+# Backtracking
+* [17\. Letter Combinations of a Phone Number](problems/letter_combinations_of_a_phone_number.py) [iteration]
+* [47\. Permutations II](problems/permutations_II.py) [dfs]
+* [77\. Combinations](problems/combinations.py)
+* [79\. Word Search](problems/work_search.py) [dfs]
+* [90\. Subsets II](problems/subsets_II.py) [dfs], 95.36%
+* [401\. Binary Watch](problems/binary_watch.py)
+* [784\. Letter Case Permutation](problems/letter_case_permutation.py)
+* [1079\. Letter Tile Possibilities](problems/letter_tile_possibilities.py)  [dfs]
+
+# recursion
+* [22\. Generate Parentheses](problems/generate_parentheses.py)
+
+# Stack
+* [155\. Min Stack](problems/min_stack.py)
 
 # Linked List
 * [24\. Swap Nodes in Pairs](problems/swap_nodes_in_pairs.py) `recursion` `add one leading node`
@@ -41,25 +74,6 @@
 * [76\. * Minimum Window Substring](problems/minimum_window_substring.py) 
 * [239\. Sliding Window Maximum](problems/sliding_window_maximum.py) `monotonic queue` 
 * [567\. Permutation in String](problems/permutation_in_string.py) [hash]
-
-
-# Dynamic Programming
-* [5\. Longest Palindromic Substring](problems/longest_palindromic_substring.py)
-* 62\. Unique Paths
-* 64\. Minimum Path Sum
-* 337\. House Robber III
-* 96\. Unique Binary Search Trees
-* [256\. Paint House](problems/paint_house.py)
-* [1277\. Count Square Submatrices with All Ones](problems/count_square_submatrices_with_all_ones.py)
-
-# Tree
-* [1490\. Clone N-ary Tree](problems/clone_N-ary_tree.py)
-### Binary tree
-* [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
-* [226\. Invert Binary Tree](problems/invert_binary_tree.py) [recursive]
-* [1008\. Construct Binary Search Tree from Preorder Traversal](problems/construct_binary_search_tree_from_preorder_traversal.py) [recursive]
-
-# Math
 
 ### Chebyshev distance
 * 1266\. Minimum Time Visiting All Points
@@ -76,21 +90,8 @@
 # Finite-state machine
 * [44\. Wildcard Matching](problems/wildcard_matching.py) // TODO
 
-# Backtracking
-* [17\. Letter Combinations of a Phone Number](problems/letter_combinations_of_a_phone_number.py) [iteration]
-* [47\. Permutations II](problems/permutations_II.py) [dfs]
-* [77\. Combinations](problems/combinations.py)
-* [79\. Word Search](problems/work_search.py) [dfs]
-* [90\. Subsets II](problems/subsets_II.py) [dfs], 95.36%
-* [401\. Binary Watch](problems/binary_watch.py)
-* [784\. Letter Case Permutation](problems/letter_case_permutation.py)
-* [1079\. Letter Tile Possibilities](problems/letter_tile_possibilities.py)  [dfs]
-
 # Least Recently Used (LRU) cache
 * [146\. LRU Cache](problems/LRU_cache.py)
-
-# Stack
-* [155\. Min Stack](problems/min_stack.py)
 
 # Bit Manipulation
 * [1486\. XOR Operation in an Array](problems/XOR_operation_in_a_array.py) `easy`
