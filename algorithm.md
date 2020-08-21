@@ -84,6 +84,9 @@
 * 895\. Maximum Frequency Stack
 * [973\. K Closest Points to Origin](problems/K_Closest_points_to_origin.py)
 
+# Binary Search
+* [33\. Search in Rotated Sorted Array](problems/search_in_rotated_sorted_array.py)
+
 # Interval
 * 56\. Merge Intervals
 * 252\. Meeting Rooms
