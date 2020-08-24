@@ -30,6 +30,7 @@
 * [13\. Roman to Integer](problems/roman_to_integer.py)
 * [125\. Valid Palindrome](problems/valid_palindrome.py)`list[::-1]` reverse a list, `==` can compare two list directly.
 * [246\. Strobogrammatic Number](problems/strobogrammatic_number.py) [hash]
+* [299\. Bulls and Cows](problems/bulls_and_cows.py) `hash table`
 * [451\. Sort Characters By Frequency](problems/sort_characters_by_frequency.py) [map, sorted]
 * [1108\. Defanging an IP Address](problems/defanging_an_ip_address.py)
 * [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
