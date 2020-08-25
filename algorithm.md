@@ -23,6 +23,7 @@
 * [64\. Minimum Path Sum](problems/minimum_path_sum.py)
 * [96\. Unique Binary Search Trees](problems/unique_binary_search_trees.py)
 * [121\. Best Time to Buy and Sell Stock](problems/best_time_to_buy_and_sell_stock.py)
+* [122\. Best Time to Buy and Sell Stock II](problems/best_time_to_buy_and_sell_stock_II.py)
 * [256\. Paint House](problems/paint_house.py)
 * [337\. House Robber III](problems/house_robber_III.py)
 * [1277\. Count Square Submatrices with All Ones](problems/count_square_submatrices_with_all_ones.py)
@@ -42,7 +43,9 @@
 
 # Tree
 * [116\. Populating Next Right Pointers in Each Node](problems/populating_next_right_pointers_in_each_node.py)
+* [1469\. Find All The Lonely Nodes](problems/find_all_the_lonely_nodes.py)
 * [1490\. Clone N-ary Tree](problems/clone_N-ary_tree.py)
+
 ### Binary search tree
 * [108\. Convert Sorted Array to Binary Search Tree](problems/convert_sorted_array_to_binary_search_tree.py)
 ### Binary tree
