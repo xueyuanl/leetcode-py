@@ -5,20 +5,24 @@
 #         self.left = left
 #         self.right = right
 class Solution(object):
+    def __init__(self):
+        self.sum = 0
+
     def findTilt(self, root):
         """
         :type root: TreeNode
         :rtype: int
         """
-        sum = 0
+        self.recursive(root)
+        return self.sum
 
-        def recursive(node):
-            if node is None:
-                return
-            recursive(node.left)
-            recursive(node.right)
-            tilt = node.left.val if node.left else 0 + node.right.val if node.right else 0
-            node.val += tilt
-            sum += abs(node.left.val if node.left else 0, node.right.val if node.right else 0)
+    def recursive(self, node):
+        if node is None:
+            return
+        self.recursive(node.left)
+        self.recursive(node.right)
+        a = node.left.val if node.left else 0
+        b = node.right.val if node.right else 0
+        node.val += a + b
+        self.sum += abs(a - b)
 
-        return sum
