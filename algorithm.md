@@ -18,6 +18,7 @@
 * [1470\. Shuffle the Array](problems/shuffle_the_array.py)
 * [1480\. Running Sum of 1d Array](problems/running_sum_of_1d_array.py)
 * [1512\. Number of Good Pairs](problems/number_of_good_pairs.py)
+* [1534\. Count Good Triplets](problems/count_good_triplets.py) `blute force`
 
 # Dynamic Programming
 * [5\. Longest Palindromic Substring](problems/longest_palindromic_substring.py)
