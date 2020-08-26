@@ -39,6 +39,7 @@
 * [1021\. Remove Outermost Parentheses](problems/remove_outermost_parentheses.py)`use flag`
 * [1108\. Defanging an IP Address](problems/defanging_an_ip_address.py)
 * [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
+* [1370\. Increasing Decreasing String](problems/increasing_decreasing_string.py)
 * [1436\. Destination City](problems/destination_city.py)
 * [1528\. Shuffle String](problems/shuffle_string.py)
 
