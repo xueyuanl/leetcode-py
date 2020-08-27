@@ -46,6 +46,7 @@
 * [1528\. Shuffle String](problems/shuffle_string.py)
 
 # Math
+* [1523\. Count Odd Numbers in an Interval Range](problems/count_odd_numbers_in_an_interval_range.py)
 
 # Tree
 * [116\. Populating Next Right Pointers in Each Node](problems/populating_next_right_pointers_in_each_node.py)
@@ -55,6 +56,7 @@
 
 ### Binary search tree
 * [108\. Convert Sorted Array to Binary Search Tree](problems/convert_sorted_array_to_binary_search_tree.py)
+* [653\. Two Sum IV - Input is a BST](problems/two_sum_IV-input_is_a_BST.py)
 ### Binary tree
 * [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
 * [226\. Invert Binary Tree](problems/invert_binary_tree.py) [recursive]
