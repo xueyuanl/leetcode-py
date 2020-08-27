@@ -42,6 +42,7 @@
 * [1180\. Count Substrings with Only One Distinct Letter](problems/count_substrings_with_only_one_distinct_letter.py) [math]
 * [1370\. Increasing Decreasing String](problems/increasing_decreasing_string.py)
 * [1436\. Destination City](problems/destination_city.py)
+* [1496\. Path Crossing](problems/path_crossing.py) `set`
 * [1528\. Shuffle String](problems/shuffle_string.py)
 
 # Math
