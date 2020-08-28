@@ -56,6 +56,7 @@
 
 ### Binary search tree
 * [108\. Convert Sorted Array to Binary Search Tree](problems/convert_sorted_array_to_binary_search_tree.py)
+* [538\. Convert BST to Greater Tree](problems/convert_BST_to_greater_tree.py)
 * [653\. Two Sum IV - Input is a BST](problems/two_sum_IV-input_is_a_BST.py)
 ### Binary tree
 * [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
@@ -117,3 +118,6 @@
 
 # Bit Manipulation
 * [1486\. XOR Operation in an Array](problems/XOR_operation_in_a_array.py) `easy`
+
+# Hash table
+* [8170\. Two Sum III - Data structure design](problems/two_sum_III_-_data_structure_design.py)
