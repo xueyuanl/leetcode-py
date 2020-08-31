@@ -46,7 +46,9 @@
 * [1528\. Shuffle String](problems/shuffle_string.py)
 
 # Math
-*[507\. Perfect Number](problems/perfect_number.py)
+* [202\. Happy Number](problems/happy_number.py)
+* [258\. Add Digits](problems/add_digits.py) `digit root`
+* [507\. Perfect Number](problems/perfect_number.py)
 * [1523\. Count Odd Numbers in an Interval Range](problems/count_odd_numbers_in_an_interval_range.py)
 
 # Tree
@@ -88,8 +90,11 @@
 * [61\. Rotate List](problems/rotate_list.py) `take remainder to get actual rotate number`
 * [86\. Partition List](problems/partition_list.py)
 * [92\. Reverse Linked List II](problems/reverse_linked_list_II.py)
+* [141\. Linked List Cycle](problems/linked_list_cycle.py)
+* [142\. Linked List Cycle II](problems/linked_list_cycle_II.py)
 * [148\. Sort List](problems/sort_list.py)
 * [234\. Palindrome Linked List](problems/palindrome_linked_list.py) : use fast-slow pointers, can get the middle position of the linked list
+* [237\. Delete Node in a Linked List](problems/delete_node_in_a_linked_list.py)
 * [1474\. Delete N Nodes After M Nodes of a Linked List](problems/delete_N_nodes_after_M_nodes_of_a_linked_list.py)
 
 ### Sliding window
