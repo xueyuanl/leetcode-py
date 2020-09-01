@@ -5,10 +5,12 @@
 * [75\. Sort Colors](problems/sort_colors.py)
 * [238\. Product of Array Except Self](problems/product_of_array_except_self.py)
 * [645\. Set Mismatch](problems/set_mismatch.py)
+* [1085\. Sum of Digits in the Minimum Number](problems/sum_of_digits_in_the_minimum_number.py)
 * [1213\. Intersection of Three Sorted Arrays](problems/intersection_of_three_sorted_arrays.py)
 * [1252\. Cells with Odd Values in a Matrix](problems/cells_with_odd_values_in_a_matrix.py)
 * [1351\. Count Negative Numbers in a Sorted Matrix](problems/count_negative_numbers_in_a_sorted_matrix.py)
 * [1365\. How Many Numbers Are Smaller Than the Current Number](problems/how_many_numbers_are_smaller_than_the_current_number.py)
+* [1380\. Lucky Numbers in a Matrix](problems/lucky_numbers_in_a_matrix.py)
 * [1389\. Create Target Array in the Given Order](problems/create_target_array_in_the_given_order.py)
 * [1395\. Count Number of Teams](problems/count_number_of_teams.py)
 * [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
@@ -84,6 +86,7 @@
 
 # Stack
 * [155\. Min Stack](problems/min_stack.py)
+* [1441\. Build an Array With Stack Operations](problems/build_an_array_with_stack_operations.py)
 
 # Linked List
 * [24\. Swap Nodes in Pairs](problems/swap_nodes_in_pairs.py) `recursion` `add one leading node`
