@@ -5,6 +5,7 @@
 * [75\. Sort Colors](problems/sort_colors.py)
 * [238\. Product of Array Except Self](problems/product_of_array_except_self.py)
 * [645\. Set Mismatch](problems/set_mismatch.py)
+* [867\. Transpose Matrix](problems/transpose_matrix.py)
 * [1085\. Sum of Digits in the Minimum Number](problems/sum_of_digits_in_the_minimum_number.py)
 * [1213\. Intersection of Three Sorted Arrays](problems/intersection_of_three_sorted_arrays.py)
 * [1252\. Cells with Odd Values in a Matrix](problems/cells_with_odd_values_in_a_matrix.py)
@@ -86,6 +87,7 @@
 
 # Stack
 * [155\. Min Stack](problems/min_stack.py)
+* [1047\. Remove All Adjacent Duplicates In String](problems/remove_all_adjacent_duplicates_in_string.py)
 * [1441\. Build an Array With Stack Operations](problems/build_an_array_with_stack_operations.py)
 
 # Linked List
