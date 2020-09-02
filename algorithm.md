@@ -7,6 +7,7 @@
 * [645\. Set Mismatch](problems/set_mismatch.py)
 * [867\. Transpose Matrix](problems/transpose_matrix.py)
 * [1085\. Sum of Digits in the Minimum Number](problems/sum_of_digits_in_the_minimum_number.py)
+* [1133\. Largest Unique Number](problems/largest_unique_number.py)
 * [1213\. Intersection of Three Sorted Arrays](problems/intersection_of_three_sorted_arrays.py)
 * [1252\. Cells with Odd Values in a Matrix](problems/cells_with_odd_values_in_a_matrix.py)
 * [1351\. Count Negative Numbers in a Sorted Matrix](problems/count_negative_numbers_in_a_sorted_matrix.py)
@@ -133,4 +134,5 @@
 * [1486\. XOR Operation in an Array](problems/XOR_operation_in_a_array.py) `easy`
 
 # Hash table
+* [599\. Minimum Index Sum of Two Lists](problems/minimum_index_sum_of_two_lists.py)
 * [8170\. Two Sum III - Data structure design](problems/two_sum_III_-_data_structure_design.py)
