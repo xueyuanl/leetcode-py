@@ -13,6 +13,7 @@
 * [1351\. Count Negative Numbers in a Sorted Matrix](problems/count_negative_numbers_in_a_sorted_matrix.py)
 * [1365\. How Many Numbers Are Smaller Than the Current Number](problems/how_many_numbers_are_smaller_than_the_current_number.py)
 * [1380\. Lucky Numbers in a Matrix](problems/lucky_numbers_in_a_matrix.py)
+* [1385\. Find the Distance Value Between Two Arrays](problems/find_the_distance_value_between_two_arrays.py)
 * [1389\. Create Target Array in the Given Order](problems/create_target_array_in_the_given_order.py)
 * [1395\. Count Number of Teams](problems/count_number_of_teams.py)
 * [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
@@ -99,6 +100,7 @@
 * [141\. Linked List Cycle](problems/linked_list_cycle.py)
 * [142\. Linked List Cycle II](problems/linked_list_cycle_II.py)
 * [148\. Sort List](problems/sort_list.py)
+* [160\. Intersection of Two Linked Lists](problems/intersection_of_two_linked_lists.py)
 * [234\. Palindrome Linked List](problems/palindrome_linked_list.py) : use fast-slow pointers, can get the middle position of the linked list
 * [237\. Delete Node in a Linked List](problems/delete_node_in_a_linked_list.py)
 * [1474\. Delete N Nodes After M Nodes of a Linked List](problems/delete_N_nodes_after_M_nodes_of_a_linked_list.py)
