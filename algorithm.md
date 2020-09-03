@@ -73,6 +73,7 @@
 
 # Greedy
 * [55\. Jump Game](problems/jump_game.py)
+* [1196\. How Many Apples Can You Put into the Basket](problems/how_namy_apples_can_you_put_into_the_basket.py)
 
 # Backtracking
 * [17\. Letter Combinations of a Phone Number](problems/letter_combinations_of_a_phone_number.py) [iteration]
