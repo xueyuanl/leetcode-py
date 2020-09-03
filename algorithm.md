@@ -67,8 +67,10 @@
 
 ### Binary search tree
 * [108\. Convert Sorted Array to Binary Search Tree](problems/convert_sorted_array_to_binary_search_tree.py)
+* [235\. Lowest Common Ancestor of a Binary Search Tree](problems/lowest_common_ancestor_of_a_binary_search_tree.py)
 * [538\. Convert BST to Greater Tree](problems/convert_BST_to_greater_tree.py)
 * [653\. Two Sum IV - Input is a BST](problems/two_sum_IV-input_is_a_BST.py)
+
 ### Binary tree
 * [105\. Construct Binary Tree from Preorder and Inorder Traversal](problems/construct_binary_tree_from_preorder_and_inorder_traversal.py) [recursive]
 * [226\. Invert Binary Tree](problems/invert_binary_tree.py) [recursive]
