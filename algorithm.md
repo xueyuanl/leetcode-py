@@ -7,6 +7,7 @@
 * [645\. Set Mismatch](problems/set_mismatch.py)
 * [867\. Transpose Matrix](problems/transpose_matrix.py)
 * [1085\. Sum of Digits in the Minimum Number](problems/sum_of_digits_in_the_minimum_number.py)
+* [1122\. Relative Sort Array](problems/relative_sort_array.py) `array index count`
 * [1133\. Largest Unique Number](problems/largest_unique_number.py)
 * [1213\. Intersection of Three Sorted Arrays](problems/intersection_of_three_sorted_arrays.py)
 * [1252\. Cells with Odd Values in a Matrix](problems/cells_with_odd_values_in_a_matrix.py)
@@ -54,6 +55,7 @@
 * [202\. Happy Number](problems/happy_number.py)
 * [258\. Add Digits](problems/add_digits.py) `digit root`
 * [507\. Perfect Number](problems/perfect_number.py)
+* [1232\. Check If It Is a Straight Line](problems/check_if_it_is_a_straight_line.py)
 * [1523\. Count Odd Numbers in an Interval Range](problems/count_odd_numbers_in_an_interval_range.py)
 
 # Tree
