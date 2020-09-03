@@ -4,6 +4,7 @@
 * [88\. Merge Sorted Array](problems/merge_sorted_array.py)
 * [75\. Sort Colors](problems/sort_colors.py)
 * [238\. Product of Array Except Self](problems/product_of_array_except_self.py)
+* [506\. Relative Ranks](problems/relative_ranks.py)
 * [645\. Set Mismatch](problems/set_mismatch.py)
 * [867\. Transpose Matrix](problems/transpose_matrix.py)
 * [1085\. Sum of Digits in the Minimum Number](problems/sum_of_digits_in_the_minimum_number.py)
@@ -136,6 +137,7 @@
 * [146\. LRU Cache](problems/LRU_cache.py)
 
 # Bit Manipulation
+* [1356\. Sort Integers by The Number of 1 Bits](problems/sort_integers_by_the_number_of_1_bits.py)
 * [1486\. XOR Operation in an Array](problems/XOR_operation_in_a_array.py) `easy`
 
 # Hash table
