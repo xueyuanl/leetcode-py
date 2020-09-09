@@ -10,6 +10,7 @@
 * [1085\. Sum of Digits in the Minimum Number](problems/sum_of_digits_in_the_minimum_number.py)
 * [1122\. Relative Sort Array](problems/relative_sort_array.py) `array index count`
 * [1133\. Largest Unique Number](problems/largest_unique_number.py)
+* [1200\. Minimum Absolute Difference](problems/minimum_absolute_difference.py)
 * [1213\. Intersection of Three Sorted Arrays](problems/intersection_of_three_sorted_arrays.py)
 * [1252\. Cells with Odd Values in a Matrix](problems/cells_with_odd_values_in_a_matrix.py)
 * [1351\. Count Negative Numbers in a Sorted Matrix](problems/count_negative_numbers_in_a_sorted_matrix.py)
