@@ -127,6 +127,7 @@
 
 # Binary Search
 * [33\. Search in Rotated Sorted Array](problems/search_in_rotated_sorted_array.py)
+* [1064\. Fixed Point](problems/fixed_point.py)
 
 # Interval
 * 56\. Merge Intervals
@@ -146,3 +147,7 @@
 # Hash table
 * [599\. Minimum Index Sum of Two Lists](problems/minimum_index_sum_of_two_lists.py)
 * [8170\. Two Sum III - Data structure design](problems/two_sum_III_-_data_structure_design.py)
+
+# Design
+### Lock
+* [1114\. Print in Order](problems/print_in_order.py)
