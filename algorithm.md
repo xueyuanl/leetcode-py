@@ -58,6 +58,7 @@
 * [202\. Happy Number](problems/happy_number.py)
 * [258\. Add Digits](problems/add_digits.py) `digit root`
 * [507\. Perfect Number](problems/perfect_number.py)
+*[1103\. Distribute Candies to People](problems/distribute_candies_to_people.py)
 * [1232\. Check If It Is a Straight Line](problems/check_if_it_is_a_straight_line.py)
 * [1523\. Count Odd Numbers in an Interval Range](problems/count_odd_numbers_in_an_interval_range.py)
 
