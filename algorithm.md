@@ -18,6 +18,7 @@
 * [1380\. Lucky Numbers in a Matrix](problems/lucky_numbers_in_a_matrix.py)
 * [1385\. Find the Distance Value Between Two Arrays](problems/find_the_distance_value_between_two_arrays.py)
 * [1389\. Create Target Array in the Given Order](problems/create_target_array_in_the_given_order.py)
+* [1394\. Find Lucky Integer in an Array](problems/find_lucky_integer_in_an_array.py)
 * [1395\. Count Number of Teams](problems/count_number_of_teams.py)
 * [1431\. Kids With the Greatest Number of Candies](problems/kids_with_the_greatest_number_of_candies.py)
 * [1450\. Number of Students Doing Homework at a Given Time](problems/number_of_students_doing_homework_at_a_given_time.py)
