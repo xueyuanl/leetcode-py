@@ -2,24 +2,33 @@
 * [1\. Two Sum](problems/1_two_sum.py) `hash table`
 * [11\. Container With Most Water](problems/11_container_with_most_water.py)
 * [15\. 3Sum](problems/15_3_sum.py) `sort` `two pointers`
+* [48\. Rotate Image](problems/48_rotate_image.py)
 * [88\. Merge Sorted Array](problems/88_merge_sorted_array.py)
 * [75\. Sort Colors](problems/75_sort_colors.py)
+* [78\. Subsets](problems/78_subsets.py)
 * [238\. Product of Array Except Self](problems/238_product_of_array_except_self.py)
+* [406\. Queue Reconstruction by Height](problems/406_queue_reconstruction_by_height.py)
+* [495\. Teemo Attacking](problems/495_teemo_attacking.py)
 * [506\. Relative Ranks](problems/506_relative_ranks.py)
 * [605\. Can Place Flowers](problems/605_can_place_flowers.py)
+* [621\. Task Scheduler](problems/621_task_scheduler.py)  `Hash table`
 * [645\. Set Mismatch](problems/645_set_mismatch.py)
 * [760\. Find Anagram Mappings](problems/760_find_anagram_mappings.py)
 * [867\. Transpose Matrix](problems/867_transpose_matrix.py)
 * [961\. N-Repeated Element in Size 2N Array](problems/961_N-Repeated_element_in_size_2N_array.py)
+* [977\. Squares of a Sorted Array](problems/977_squares_of_a_sorted_array.py)
 * [1085\. Sum of Digits in the Minimum Number](problems/1085_sum_of_digits_in_the_minimum_number.py)
 * [1122\. Relative Sort Array](problems/1122_relative_sort_array.py) `array index count`
 * [1133\. Largest Unique Number](problems/1133_largest_unique_number.py)
 * [1200\. Minimum Absolute Difference](problems/1200_minimum_absolute_difference.py)
+* [1207\. Unique Number of Occurrences](problems/1207_unique_number_of_occurrences.py)  `Hash table`
 * [1213\. Intersection of Three Sorted Arrays](problems/1213_intersection_of_three_sorted_arrays.py)
 * [1252\. Cells with Odd Values in a Matrix](problems/1252_cells_with_odd_values_in_a_matrix.py)
 * [1295\. Find Numbers with Even Number of Digits](problems/1295_find_numbers_with_even_number_of_digits.py)
+* [1299\. Replace Elements with Greatest Element on Right Side](problems/1299_replace_elements_with_greatest_element_on_right_side.py)
 * [1304\. Find N Unique Integers Sum up to Zero](problems/1304_find_N_unique_integers_sum_up_to_zero.py)
 * [1313\. Decompress Run-Length Encoded List](problems/1313_decompress_run-length_encoded_list.py)
+* [1337\. The K Weakest Rows in a Matrix](problems/1337_the_K_weakest_rows_in_a_matrix.py)
 * [1347\. Minimum Number of Steps to Make Two Strings Anagram](problems/1347_minimum_number_of_steps_to_make_two_strings_anagram.py)
 * [1351\. Count Negative Numbers in a Sorted Matrix](problems/1351_count_negative_numbers_in_a_sorted_matrix.py)
 * [1365\. How Many Numbers Are Smaller Than the Current Number](problems/1365_how_many_numbers_are_smaller_than_the_current_number.py)
@@ -37,6 +46,27 @@
 * [1512\. Number of Good Pairs](problems/1512_number_of_good_pairs.py)
 * [1534\. Count Good Triplets](problems/1534_count_good_triplets.py) `blute force`
 
+# String
+* [13\. Roman to Integer](problems/13_roman_to_integer.py)
+* [49\. Group Anagrams](problems/49_group_anagrams.py)
+* [125\. Valid Palindrome](problems/125_valid_palindrome.py)`list[::-1]` reverse a list, `==` can compare two list directly.
+* [246\. Strobogrammatic Number](problems/246_strobogrammatic_number.py) [hash]
+* [299\. Bulls and Cows](problems/299_bulls_and_cows.py) `hash table`
+* [394\. Decode String](problems/394_decode_string.py)
+* [451\. Sort Characters By Frequency](problems/451_sort_characters_by_frequency.py) [map, sorted]
+* [1021\. Remove Outermost Parentheses](problems/1021_remove_outermost_parentheses.py)`use flag`
+* [1108\. Defanging an IP Address](problems/1108_defanging_an_ip_address.py)
+* [1119\. Remove Vowels from a String](problems/1119_remove_vowels_from_a_string.py)
+* [1160\. Find Words That Can Be Formed by Characters](problems/1160_find_words_that_can_be_formed_by_characters.py)
+* [1165\. Single-Row Keyboard](problems/1165_single-row_keyboard.py)
+* [1180\. Count Substrings with Only One Distinct Letter](problems/1180_count_substrings_with_only_one_distinct_letter.py) [math]
+* [1221\. Split a String in Balanced Strings](problems/1221_split_a_string_in_balanced_strings.py)
+* [1309\. Decrypt String from Alphabet to Integer Mapping](problems/1309_decrypt_string_from_alphabet_to_integer_mapping.py)
+* [1370\. Increasing Decreasing String](problems/1370_increasing_decreasing_string.py)
+* [1436\. Destination City](problems/1436_destination_city.py)
+* [1496\. Path Crossing](problems/1496_path_crossing.py) `set`
+* [1528\. Shuffle String](problems/1528_shuffle_string.py)
+
 # Dynamic Programming
 * [5\. Longest Palindromic Substring](problems/5_longest_palindromic_substring.py)
 * [62\. Unique Paths](problems/62_unique_paths.py)
@@ -49,30 +79,14 @@
 * [337\. House Robber III](problems/337_house_robber_III.py)
 * [1277\. Count Square Submatrices with All Ones](problems/1277_count_square_submatrices_with_all_ones.py)
 
-# String
-* [13\. Roman to Integer](problems/13_roman_to_integer.py)
-* [49\. Group Anagrams](problems/49_group_anagrams.py)
-* [125\. Valid Palindrome](problems/125_valid_palindrome.py)`list[::-1]` reverse a list, `==` can compare two list directly.
-* [246\. Strobogrammatic Number](problems/246_strobogrammatic_number.py) [hash]
-* [299\. Bulls and Cows](problems/299_bulls_and_cows.py) `hash table`
-* [394\. Decode String](problems/394_decode_string.py)
-* [451\. Sort Characters By Frequency](problems/451_sort_characters_by_frequency.py) [map, sorted]
-* [1021\. Remove Outermost Parentheses](problems/1021_remove_outermost_parentheses.py)`use flag`
-* [1108\. Defanging an IP Address](problems/1108_defanging_an_ip_address.py)
-* [1160\. Find Words That Can Be Formed by Characters](problems/1160_find_words_that_can_be_formed_by_characters.py)
-* [1180\. Count Substrings with Only One Distinct Letter](problems/1180_count_substrings_with_only_one_distinct_letter.py) [math]
-* [1309\. Decrypt String from Alphabet to Integer Mapping](problems/1309_decrypt_string_from_alphabet_to_integer_mapping.py)
-* [1370\. Increasing Decreasing String](problems/1370_increasing_decreasing_string.py)
-* [1436\. Destination City](problems/1436_destination_city.py)
-* [1496\. Path Crossing](problems/1496_path_crossing.py) `set`
-* [1528\. Shuffle String](problems/1528_shuffle_string.py)
-
 # Math
 * [202\. Happy Number](problems/202_happy_number.py)
 * [258\. Add Digits](problems/258_add_digits.py) `digit root`
 * [507\. Perfect Number](problems/507_perfect_number.py)
 * [1103\. Distribute Candies to People](problems/1103_distribute_candies_to_people.py)
+* [1217\. Minimum Cost to Move Chips to The Same Position](problems/1217_minimum_cost_to_move_chips_to_the_same_position.py)
 * [1232\. Check If It Is a Straight Line](problems/1232_check_if_it_is_a_straight_line.py)
+* [1281\. Subtract the Product and Sum of Digits of an Integer](problems/1281_subtract_the_product_and_sum_of_digits_of_an_integer.py)
 * [1323\. Maximum 69 Number](problems/1323_maximum_69_number.py)
 * [1342\. Number of Steps to Reduce a Number to Zero](problems/1342_number_of_steps_to_reduce_a_number_to_zero.py)
 * [1523\. Count Odd Numbers in an Interval Range](problems/1523_count_odd_numbers_in_an_interval_range.py)
@@ -101,6 +115,7 @@
 * [543\. Diameter of Binary Tree](problems/543_diameter_of_binary_tree.py)
 * [1008\. Construct Binary Search Tree from Preorder Traversal](problems/1008_construct_binary_search_tree_from_preorder_traversal.py) [recursive]
 * [1302\. Deepest Leaves Sum](problems/1302_deepest_leaves_sum.py)
+* [1315\. Sum of Nodes with Even-Valued Grandparent](problems/1315_sum_of_nodes_with_even-valued_grandparent.py)
 
 # Greedy
 * [55\. Jump Game](problems/55_jump_game.py)
@@ -138,6 +153,7 @@
 * [160\. Intersection of Two Linked Lists](problems/160_intersection_of_two_linked_lists.py)
 * [234\. Palindrome Linked List](problems/234_palindrome_linked_list.py) : use fast-slow pointers, can get the middle position of the linked list
 * [237\. Delete Node in a Linked List](problems/237_delete_node_in_a_linked_list.py)
+* [1265\. Print Immutable Linked List in Reverse](problems/1265_print_immutable_linked_list_in_reverse.py)
 * [1290\. Convert Binary Number in a Linked List to Integer](problems/1290_convert_binary_number_in_a_linked_list_to_integer.py)
 * [1474\. Delete N Nodes After M Nodes of a Linked List](problems/1474_delete_N_nodes_after_M_nodes_of_a_linked_list.py)
 
@@ -150,7 +166,8 @@
 ### Chebyshev distance
 * [1266\. Minimum Time Visiting All Points](problems/1266_minimum_time_visiting_all_points.py)
 
-# Heap
+# Heap(Priority Queue)
+* [347\. Top K Frequent Elements](problems/347_top_K_frequent_elements.py)
 * [895\. Maximum Frequency Stack](problems/895_maximum_frequency_stack.py)
 * [973\. K Closest Points to Origin](problems/973_K_Closest_points_to_origin.py)
 
