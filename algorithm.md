@@ -184,6 +184,7 @@
 
 # Finite-state machine
 * [44\. Wildcard Matching](problems/44_wildcard_matching.py) // TODO
+* [65\. Valid Number](problems/65_valid_number.py)
 
 # Least Recently Used (LRU) cache
 * [146\. LRU Cache](problems/146_LRU_cache.py)
